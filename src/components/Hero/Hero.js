@@ -8,6 +8,8 @@ export const Hero = () => {
         Welcome in our e-commerce Website where you can buy, sell, any types of
         products
       </p>
+      <br/>
+      <input type="text" id="myInput" class="searchBar"  placeholder="Search for products.."/>
 
     </div>
   );
