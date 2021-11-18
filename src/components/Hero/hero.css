@@ -1,0 +1,9 @@
+
+p {
+    position: fixed;
+    width: 90%;   /* == (50vw - (width of vertical scrollbar)) */
+    height: 20%;  /* == (50vh - (height of horizontal scrollbar)) */
+    margin: 2%;   /* == (5vw - (width of vertical scrollbar)) */
+    padding: 2%;  /* == (5vw - (width of vertical scrollbar)) */
+    border-style: solid;
+  }
