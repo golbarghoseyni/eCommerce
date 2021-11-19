@@ -20,3 +20,4 @@ export const Products = (props) => {
     </div>
   )
 }
+export default Products;
