@@ -12,6 +12,7 @@ export const Product = ({productName , price , img}) => {
         <p className="cardPart">
           <span className="cardTitle">Price :</span> {price}
         </p>
+        <a href="/product">Info Product</a>
       </div>
     </div>
   )
