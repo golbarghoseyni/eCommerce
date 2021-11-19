@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from '../header/Header';
 import Products from '../products/Products';
 import Hero from '../Hero/Hero';
 
@@ -24,7 +23,6 @@ const Acceuil = () => {
       ];
       return (
         <div >
-         <Header />
          <Hero />
          <Products products={products}/>
         </div>
